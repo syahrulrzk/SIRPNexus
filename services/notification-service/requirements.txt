@@ -10,6 +10,6 @@ redis==5.0.8
 elasticsearch==8.15.1
 tenacity==9.0.0
 prometheus-fastapi-instrumentator==7.0.0
-python-jose==3.3.0
-python-multipart==0.0.9
-aiosmtplib==3.0.2
+python-jose==3.5.0
+python-multipart==0.0.31
+aiosmtplib==5.1.2

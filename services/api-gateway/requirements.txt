@@ -10,7 +10,7 @@ redis==5.0.8
 elasticsearch==8.15.1
 tenacity==9.0.0
 prometheus-fastapi-instrumentator==7.0.0
-python-jose==3.3.0
-python-multipart==0.0.9
+python-jose==3.5.0
+python-multipart==0.0.31
 bcrypt==4.2.1
 slowapi==0.1.9
